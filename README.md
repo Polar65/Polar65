@@ -6,7 +6,7 @@
 
 -<code> 💞️ I’m looking to collaborate on ...</code>
 
--<code> 📫 How to reach me ...</code>
+-<code> 📫 How to reach me find...</code>
 
 <!---
 Polar65/Polar65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
